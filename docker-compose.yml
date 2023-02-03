@@ -27,7 +27,7 @@ services:
 
   mongo_express:
     container_name: mongo-express
-    image: mongo-express:latest
+    image: mongo-express:0.54.0
     restart: always
     networks:
       - gpt_default
