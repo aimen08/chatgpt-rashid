@@ -128,8 +128,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# Custom
-config/config.yml
-config/config.env
 
 docker-compose.dev.yml
